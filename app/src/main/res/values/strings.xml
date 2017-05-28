@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Shakira Quiz</string>
+    <string name="your_score">Your score is </string>
+    <string name="ouch">You know nothing about her</string>
+    <string name="well_done">Looks like you know some things about Shakira</string>
+    <string name="congrats">Seems like you know everything about Shakira</string>
+    <string name="welcome_message">Welcome to Shakira Quiz</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="start">START QUIZ</string>
+
+    <string name="question_text_01">1. What is her first album called?</string>
+    <string name="option1_q1">Pies Descalzos</string>
+    <string name="option2_q1">Peligro</string>
+    <string name="option3_q1">¿Dónde Están los Ladrones?</string>
+    <string name="option4_q1">Magia</string>
+
+    <string name="question_text_02">2. Which song\'s lyrics contains the following part: \'Y conocí más de mil formas de besar
+Y fue por ti que descubrí lo que es amar\'?</string>
+    <string name="option1_q2">Antologia</string>
+    <string name="option2_q2">Que Me Quedes Tú</string>
+    <string name="option3_q2">Tú</string>
+    <string name="option4_q2">Moscas en la casa</string>
+
+    <string name="question_text_03">3. What does \'Shakira\' mean?</string>
+    <string name="option1_q3">Beautiful woman</string>
+    <string name="option2_q3">Woman full of grace</string>
+    <string name="option3_q3">Lovely woman</string>
+    <string name="option4_q4">Woman of Earth</string>
+
+    <string name="question_text_04">4. What is Shakira middle name?</string>
+    <string name="name_of_band">middle name</string>
+
+    <string name="question_text_05">5. Which of the following titles are found on Shakira\'s album Laundry service?</string>
+    <string name="option1_q5">Whenever, Wherever</string>
+    <string name="option2_q5">Underneath Your Clothes</string>
+    <string name="option3_q5">Poem to a Horse</string>
+    <string name="option4_q5">No Creo</string>
+
+    <string name="question_text_06">6. At what age did Shakira record her first album?</string>
+    <string name="year">age</string>
+
+    <string name="question_text_07">7. Which album is \'Te espero Sentada\' in?</string>
+    <string name="option1_q7">MTV Unplugged</string>
+    <string name="option2_q7">Dónde Están los Ladrones?</string>
+    <string name="option3_q7">Pies Descalzos</string>
+    <string name="option4_q7">Laundry service</string>
+
+    <string name="get_score">GET SCORE</string>
+    <string name="back_home">BACK</string>
+    <string name="points">points.</string>
+</resources>

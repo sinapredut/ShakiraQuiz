@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sorinapredut/AndroidStudioProjects/ShakiraQuiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87973f99fd4b1eab1fc4ec5949952d8463c408a1">
+        <dex dex="/Users/sorinapredut/AndroidStudioProjects/ShakiraQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_134a3b9207537b57bc4d771d06a97c9748ccc824/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sorinapredut/AndroidStudioProjects/ShakiraQuiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/sorinapredut/AndroidStudioProjects/ShakiraQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_88415bb94f22393e8be03436d1a2322b7a55c1f0/classes.dex" />
+    </item>
+
+</items>
